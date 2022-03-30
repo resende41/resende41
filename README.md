@@ -1,8 +1,8 @@
 ## Olá eu sou Jeferson Resende, startup em desenvolvimento e especialista em infraestrutura!
 
-☀ Startup Dev
-☀ Especialista em Infraestrutura
-☀ Gestão Estratégica de TI
+☀ Startup Dev ...
+☀ Especialista em Infraestrutura ...
+☀ Gestão Estratégica de TI ...
 
 <div align="center">
   <a href="https://github.com/resende41">
